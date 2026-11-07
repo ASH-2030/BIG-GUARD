@@ -79,3 +79,16 @@ Defensive only. Runs locally, makes no network calls, contains no credential the
 
 ## Legacy
 The original v1.1 single-file prototype is preserved in `legacy/`.
+
+## Live Demo
+
+Explore BIG-Guard: [https://big-guard.streamlit.app/](https://big-guard.streamlit.app/)
+
+## Team
+
+**Alishba Jaffri** — [GitHub](https://github.com/ASH-2030)
+
+**Dua Najam** — [GitHub](https://github.com/duanajam3/BIG-GUARD)
+
+
+
